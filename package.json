@@ -1,0 +1,16 @@
+{
+  "name": "pathfinder-combat-calculator",
+  "version": "1.0.0",
+  "description": "A simple combat calculator for Pathfinder TTRPG sessions",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": ["pathfinder", "combat", "calculator", "dice", "rpg"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
